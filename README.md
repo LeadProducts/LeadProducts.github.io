@@ -4,16 +4,22 @@
  
  <p dir="rtl"> هر هفته شنبه‌ها ساعت ۸ شب، با بقیه مدیرمحصول ها کتاب می‌خونیم و از تجربه‌های دنیای کاری‌مون صحبت می کنیم. </p> 
 
-<div dir="rtl">
+<ul dir="rtl">
 
-  - **لینک ها :**
-    - [کانال یوتیوب](https://www.youtube.com/channel/UCLBXU_qZErSCcK-KyfaWk2Q/about)
-    - [گروه تلگرام](https://t.me/LeadProducts)
-    - [صفحه توییتر](https://twitter.com/leadproducts)
-  - **فایل ها :**
-    - [لینک تمام منابع گوگل درایو](https://drive.google.com/drive/folders/1-ViYnIZjAJyFMiYB13to9BC9wffP1wOD?usp=sharing)
+ <li> <b>لینک ها :</b> 
+  <ul>
+   <li> <a target="_blank" href="https://www.youtube.com/channel/UCLBXU_qZErSCcK-KyfaWk2Q/about">کانال یوتیوب</a> </li>
+   <li> <a target="_blank" href="https://t.me/LeadProducts">گروه تلگرام</a> </li>
+   <li> <a target="_blank" href="https://twitter.com/leadproducts">صفحه توییتر</a> </li>
+  </ul>
+ </li>
+ <li> <b>فایل ها :</b>
+  <ul>
+    <li> <a target="_blank" href="https://drive.google.com/drive/folders/1-ViYnIZjAJyFMiYB13to9BC9wffP1wOD?usp=sharing">لینک تمام منابع گوگل درایو</a> </li>
+  </ul>
+ </li>
 
-</div>
+</ul>
 
 
 cracking the coding interview | [PDF](Cracking_Coding_Interview.pdf) <br />
