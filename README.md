@@ -4,7 +4,7 @@
  
  <p dir="rtl"> هر هفته شنبه‌ها ساعت ۸ شب، با بقیه مدیرمحصول ها کتاب می‌خونیم و از تجربه‌های دنیای کاری‌مون صحبت می کنیم. </p> 
 
-<p dir="rtl">
+<div dir="rtl">
 
   - **لینک ها :**
     - [کانال یوتیوب](https://www.youtube.com/channel/UCLBXU_qZErSCcK-KyfaWk2Q/about)
@@ -13,7 +13,8 @@
   - **فایل ها :**
     - [لینک تمام منابع گوگل درایو](https://drive.google.com/drive/folders/1-ViYnIZjAJyFMiYB13to9BC9wffP1wOD?usp=sharing)
 
-</p>
+</div>
+
 
 cracking the coding interview | [PDF](Cracking_Coding_Interview.pdf) <br />
 cracking the pm career | [PDF](Cracking_the_PM_Career_The_Skills_Frameworks_and_Practices_To_Become.pdf) - [EPUB](Cracking_the_PM_Career_The_Skills%2C_Frameworks%2C_and_Practices_To.epub) <br />
