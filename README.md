@@ -1,7 +1,4 @@
 
-
-# Lead Products
-
 <p align="right"><img src="logo.jpeg" width="200" /></p>
 
  
