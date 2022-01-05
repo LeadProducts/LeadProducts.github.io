@@ -1,4 +1,4 @@
-<div dir="rtl">
+
 
 # Lead Products
 
@@ -9,8 +9,6 @@
     - [گروه تلگرام](https://t.me/LeadProducts)
     - [صفحه توییتر](https://twitter.com/leadproducts)
 
-</div>
-<div dir="ltr">
   
   - منابع :
     - [لینک تمام منابع گوگل درایو](https://drive.google.com/drive/folders/1-ViYnIZjAJyFMiYB13to9BC9wffP1wOD?usp=sharing)
@@ -21,4 +19,3 @@
     - [inspired - how to create tech products customers love - (PDF)](https://github.com/LeadProducts/LeadProducts.github.io/raw/main/INSPIRED_%20How%20to%20Create%20Tech%20Products%20Customers%20Love.pdf)
     - [Product Manager Tasks - (PDF)](https://github.com/LeadProducts/LeadProducts.github.io/raw/main/Cracking_the_PM_career_01_1618724473.pdf)
   
-</div>
